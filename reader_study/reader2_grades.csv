@@ -1,0 +1,61 @@
+id,pdr,wf,pmax,slow,pat,asym,art,artloc,drow,glob,ungr,notes
+R001,6,0,no,moderate,intermittent,no,mild,diffuse,possible,borderline,no,"generalised slowing, diffuse myogenic artefact at page 6"
+R002,10,2,yes,none,na,no,none,none,none,normal,no,
+R003,absent,0,no,none,na,no,marked,diffuse,none,borderline,yes,marked myogenic artefact eeg interpretetion is difficult
+R004,6,0,no,moderate,continuous,no,mild,frontal,possible,borderline,no,
+R005,10,2,yes,none,na,no,none,none,none,normal,no,
+R006,9,2,yes,none,na,no,mild,frontal,none,normal,no,
+R007,9,1,yes,none,na,no,marked,diffuse,none,borderline,no,
+R008,6,1,yes,moderate,continuous,no,mild,frontal,possible,borderline,no,
+R009,8,1,yes,mild,intermittent,no,mild,frontal,possible,normal,no,alpha attenuation on page 1
+R010,10,2,yes,none,na,no,mild,frontal,none,normal,no,
+R011,9,1,yes,none,na,no,mild,frontal,possible,normal,no,alpha attenuation
+R012,8,1,yes,mild,intermittent,no,mild,diffuse,possible,normal,no,alpha- theta transition
+R013,9,1,yes,none,na,no,mild,frontal,possible,normal,no,alpha attenuation
+R014,9,2,yes,none,na,no,mild,diffuse,none,normal,no,
+R015,10,1,yes,none,na,no,marked,frontal,none,normal,no,
+R016,9,2,yes,none,na,no,mild,frontal,none,normal,no,
+R017,5.5,1,yes,mild,intermittent,no,mild,frontal,possible,normal,no,
+R018,6,1,yes,moderate,continuous,no,mild,frontal,possible,borderline,no,
+R019,10,2,yes,none,na,no,mild,diffuse,none,normal,no,
+R020,8.5,2,yes,none,na,no,mild,frontal,possible,normal,no,alpha attenuation
+R021,6,0,yes,mild,continuous,no,mild,diffuse,possible,borderline,no,
+R022,9,2,yes,none,na,no,mild,frontal,none,normal,no,
+R023,7.5,1,yes,mild,intermittent,no,none,none,possible,borderline,no,
+R024,9,1,yes,none,na,no,mild,frontal,none,normal,no,
+R025,4.5,0,yes,moderate,continuous,no,marked,diffuse,definite,abnormal,no,
+R026,9.5,2,yes,none,na,no,mild,frontal,none,normal,no,
+R027,8,2,yes,none,na,no,none,none,none,normal,no,
+R028,9,2,yes,none,na,no,mild,diffuse,none,normal,no,
+R029,9.5,2,yes,none,na,no,mild,diffuse,none,normal,no,
+R030,8.5,1,yes,none,na,no,none,none,possible,normal,no,attenuated alpha
+R031,9,1,yes,none,na,no,mild,frontal,possible,normal,no,attenuated alpha
+R032,10,2,yes,none,na,no,none,none,none,normal,no,
+R033,absent,0,no,none,na,no,marked,diffuse,none,abnormal,yes,marked artifact EEG interpretetion difficult
+R034,8,2,yes,none,na,no,none,none,none,normal,no,
+R035,10,2,yes,none,na,no,none,none,none,normal,no,
+R036,10,1,yes,none,na,no,mild,diffuse,possible,normal,no,
+R037,8,2,yes,none,na,no,mild,frontal,none,normal,no,
+R038,10,2,yes,none,na,no,mild,frontal,none,normal,no,
+R039,11,1,yes,none,na,no,mild,frontal,possible,normal,no,
+R040,10,2,yes,mild,intermittent,no,none,none,possible,normal,no,
+R041,10,2,yes,none,na,no,mild,diffuse,none,normal,no,
+R042,8,2,yes,none,na,no,none,none,none,normal,no,
+R043,9,2,yes,mild,intermittent,no,mild,diffuse,none,normal,no,
+R044,8,2,yes,none,na,no,none,none,none,normal,no,
+R045,6,0,no,moderate,continuous,no,none,none,definite,abnormal,yes,"generalised slowing theta delta range, difficult interpretetion due to isoelectric line"
+R046,5.5,1,yes,mild,continuous,no,mild,diffuse,definite,abnormal,no,generalised theta-delta slowing 
+R047,9,2,yes,none,na,no,mild,diffuse,none,normal,no,
+R048,8.5,2,yes,mild,intermittent,no,mild,frontal,possible,borderline,no,
+R049,8,2,yes,mild,intermittent,no,mild,frontal,possible,borderline,no,
+R050,9,2,yes,none,na,no,mild,diffuse,none,normal,no,
+R051,8.5,1,yes,none,na,no,none,none,none,normal,no,attenuated alpha
+R052,7,1,yes,mild,continuous,no,none,none,possible,borderline,no,genralised slowing theta range
+R053,absent,0,no,none,na,no,marked,diffuse,none,abnormal,yes,generalised artefacts and difficult interpretetion
+R054,10,2,yes,none,na,no,none,none,none,normal,no,
+R055,8.5,1,yes,mild,intermittent,no,marked,diffuse,none,borderline,no,
+R056,6.5,1,yes,mild,continuous,no,none,none,possible,borderline,no,
+R057,10,1,yes,none,na,no,marked,diffuse,none,normal,no,
+R058,8.5,2,yes,none,na,no,none,none,none,normal,no,
+R059,9,2,yes,none,na,no,none,none,none,normal,no,
+R060,9.5,2,yes,none,na,no,mild,frontal,none,normal,no,

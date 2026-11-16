@@ -1,0 +1,14 @@
+field,allowed_entries,instruction
+blind_id,pre-filled,Pre-filled. Do not reorder the rows.
+pdr_frequency_hz,"4.0 to 14.0 in 0.5 steps, or absent","Number to the nearest 0.5 Hz between 4 and 14, or choose 'absent'. 'absent' is a real answer: do not enter a best guess."
+pdr_well_formed_0_2,0 / 1 / 2,"0 = absent or fragmented, 1 = poorly formed, 2 = well formed and rhythmic."
+posterior_maximal_yes_no,yes / no,Is the dominant rhythm maximal posteriorly?
+slowing_none_mild_mod_severe,none / mild / moderate / severe,Degree of diffuse background slowing.
+slowing_intermittent_continuous,intermittent / continuous / na,Pattern of the slowing. Choose 'na' if there is none.
+asymmetry_yes_no,yes / no,Interhemispheric amplitude or frequency asymmetry beyond normal limits.
+artefact_none_mild_marked,none / mild / marked,"MUSCLE artefact specifically. Do not count blink, eye movement, ECG, electrode pop or movement; note those under reader_notes."
+artefact_location,temporal / frontal / diffuse / none,"Where muscle activity is maximal, recorded even when the artefact is mild."
+drowsiness_none_possible_definite,none / possible / definite,"Drowsiness produces the same spectral changes the instrument is asked to detect, so this field can change the study's conclusions."
+global_impression_normal_borderline_abnormal,normal / borderline / abnormal,Overall impression of the record. Not a diagnosis.
+ungradable_yes_no,yes / no,Choose 'yes' if the record cannot be graded at all; see section 5.
+reader_notes,free text,Free text. Anything the fixed fields do not capture.

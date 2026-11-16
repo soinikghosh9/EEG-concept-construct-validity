@@ -1,0 +1,12 @@
+# Versions used for the reported results: Python 3.12, Windows 11, CUDA 12.8.
+numpy>=2.0
+scipy>=1.13
+pandas>=2.2
+scikit-learn>=1.5
+matplotlib>=3.9
+h5py>=3.11            # P-ADIC files
+mne>=1.8
+mne-icalabel>=0.9     # ICLabel in the harmonised cleaning step
+openpyxl>=3.1         # EasyCog participant sheet
+torch>=2.4            # reported runs: 2.11 + CUDA 12.8; deep comparators only
+braindecode==1.5.2    # published deep architectures (reference implementations)

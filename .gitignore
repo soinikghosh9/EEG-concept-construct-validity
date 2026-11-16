@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+outputs/
+datasets/
+jne_build_revised/
+*.npy
+*.npz
+*.pt
+*.edf
+*.set
+*.fdt
+.venv/
+venv/
